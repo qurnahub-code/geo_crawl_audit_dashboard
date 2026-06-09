@@ -51,4 +51,4 @@ Since CrawlScope is built entirely on client-side vanilla web technologies, laun
 **Abu Sufyan** — *Next.js Developer · Technical SEO · Developer Tooling*
 - 🌐 Portfolio: [abusufyan.xyz](https://abusufyan.xyz)
 - 🛠️ Platform: [WebToolkit Pro](https://wtkpro.site)
-- 💼 Professional: [Hire on Upwork]([https://www.upwork.com](https://www.upwork.com/freelancers/~01593a2ac53e84226c?mp_source=share))
+- 💼 Professional: [Hire on Upwork](https://www.upwork.com/freelancers/~01593a2ac53e84226c?mp_source=share)
