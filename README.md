@@ -6,7 +6,7 @@ Created by **Abu Sufyan** — Next.js & Technical SEO Developer.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **GEO Score & Health Analytics**: Evaluates web performance across key categories including GEO citations, crawl coverage, index discovery velocity, and JSON-LD schema markup gaps.
 - **Interactive Crawl Signal Map**: A real-time visual grid listing crawled URLs. Includes path-based searching and filter buttons to isolate URLs by their health class (`OK`, `Warn`, `Fail`).
@@ -23,7 +23,7 @@ Created by **Abu Sufyan** — Next.js & Technical SEO Developer.
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Structure & Layout**: Semantic HTML5, CSS Flexbox & CSS Grid.
 - **Styling**: Modern dark-mode palette utilizing CSS variables, rich animations, glassmorphic filters, and typography powered by Google Fonts (Syne and IBM Plex Mono).
@@ -31,21 +31,12 @@ Created by **Abu Sufyan** — Next.js & Technical SEO Developer.
 
 ---
 
-## 📂 Project Structure
-
-```bash
-CrawlScope GEO Audit Dashboard/
-└── index.html.html   # Main single-file dashboard application (HTML, CSS, JS)
-```
-
----
-
 ## 💻 Getting Started
 
 Since CrawlScope is built entirely on client-side vanilla web technologies, launching it is simple:
 
-1. **Locate the file**: Open the directory where `index.html.html` is stored.
-2. **Open in Browser**: Double-click `index.html.html` or drag it into any modern web browser (Chrome, Firefox, Safari, Edge).
+1. **Locate the file**: Open the directory where `index.html` is stored.
+2. **Open in Browser**: Double-click `index.html` or drag it into any modern web browser (Chrome, Firefox, Safari, Edge).
 3. **Usage**:
    - Enter a domain (e.g., `wtkpro.site` or `severancecalculator.xyz`) in the input box and click **Scan Site**.
    - Click on individual URLs in the **Crawl signal map** to inspect HTTP status, health scores, and recommended actions.
